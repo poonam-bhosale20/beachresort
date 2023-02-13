@@ -1,0 +1,44 @@
+<!Doctype html>
+<html>
+<head>
+<title>Beach Resort</title>
+<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	<script type="text/javascript" src="jquery.js"></script>
+	<script type="text/javascript" src="popper.js"></script>
+	<script type="text/javascript" src="bootstrap.js"></script>
+	
+	<style>
+	.wrapper{
+	max-height:260px;
+	display:flex;
+	overflow-x:auto;
+	}
+	.wrapper .item img{
+	min-width:250px;
+	height:250px;
+	line-height:50px;
+	}
+	</style>
+</head>
+<body style="background:black;">
+<div class="container">
+	<div class="wrapper">
+	<div class="item"><img src="Images/photo9.jpg"></div>
+	<div class="item"><img src="Images/photo9.jpg"></div>
+	<div class="item"><img src="Images/photo9.jpg"></div>
+	<div class="item"><img src="Images/photo9.jpg"></div>
+	<div class="item"><img src="Images/photo9.jpg"></div>
+	<div class="item"><img src="Images/photo9.jpg"></div>
+	<div class="item"><img src="Images/photo9.jpg"></div>
+	<div class="item"><img src="Images/photo9.jpg"></div>
+	<div class="item"><img src="Images/photo9.jpg"></div>
+	<div class="item"><img src="Images/photo9.jpg"></div>
+	<div class="item"><img src="Images/photo9.jpg"></div>
+	<div class="item"><img src="Images/photo9.jpg"></div>
+	</div>
+	</div>
+</body>
+</html>

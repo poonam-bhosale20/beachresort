@@ -1,0 +1,180 @@
+<!DOctype html>
+
+<html>
+<head>
+<title>Beach Resort</title>
+<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	<script type="text/javascript" src="jquery.js"></script>
+	<script type="text/javascript" src="popper.js"></script>
+	<script type="text/javascript" src="bootstrap.js"></script>
+	
+	
+	
+</head>
+<body style="background:black;">
+	<header>
+		<div class="container">
+			<div class="row">
+				<div class="col-5 col-sm-5 col-md-6 col-lg-6 col-xl-6">
+				<img src="Beachlogo.png" class="img-fluid mx-auto" height="70" width="170">
+				</div>
+				<div class="col-7 col-sm-7 col-md-6 col-lg-6 col-xl-6">
+				<form class="form-inline" style="margin-top: 35px; margin-left: 60px;">
+					<div class="input-group">
+						<input class="form-control mr-sm-2" type="text" placeholder="Search....">
+						<button class="btn btn-success" type="submit">Submit</button>
+					</div>
+				</form>
+			  </div>
+			</div>
+	</header>
+	
+	<nav class="navbar navbar-expand-md  navbar-dark  sticky-top" style="background:black;">
+	<div class="fliud-container">
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="margin:50px;">
+	    		<span class="navbar-toggler-icon"></span>
+	  		</button>
+    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 ">
+      <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+        
+      </a>
+<div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="nav nav-pills navbar-nav mx-auto">
+        <li class="nav-item"><a href="Home.html" class="nav-link "style="width: 100px; text-align: center;">HOME</a></li>
+        <li class="nav-item"><a href="Place to visit.html" class="nav-link "style="width: 160px; text-align: center;">PLACE TO VISIT </a></li>
+        <li class="nav-item"><a href="Resturant.html" class="nav-link"style="width: 120px; text-align: center;">RESTURANT</a></li>
+        <li class="nav-item"><a href="Hotels.html" class="nav-link"style="width: 100px; text-align: center;">HOTELS</a></li>
+        
+		<li class="nav-item"><a href="Club.html" class="nav-link "style="width: 100px; text-align: center;" >CLUBS</a></li>
+		<li class="nav-item"><a href="RoadTrip.html" class="nav-link"style="width: 120px; text-align: center;">ROAD TRIP</a></li>
+		<li class="nav-item"><a href="Travel Blog.html" class="nav-link active" aria-current="page" style="width: 120px; text-align: center;">TRAVEL BLOG</a></li>
+		<li class="nav-item"><a href="Contact.html" class="nav-link"style="width: 110px; text-align: center;">CONTACT</a></li>
+		
+      </ul>
+	  </div>
+    </header>
+	</div>
+	</nav>
+	
+	
+	
+	<div class="container">
+	<h1 style="padding-top:20px;color:#cd6c6c; font-family:Cooper; font-size:60px;">Travel blog</h1>
+	<h3></h3>
+	<div class="row">
+	<div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 pt-5">
+	<iframe class="a1" width="630" height="470" src="https://www.youtube.com/embed/ZajkYTz7H6s?&mute=1">
+	</iframe>
+	</div>
+	
+	<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 pt-5">
+	<p style="color:#83c5bf; font-size:18px; text-align:justify; border:3px solid  #77b300; border-radius: 20px; padding-left:30px; padding-right:30px; padding-bottom:30px;">Traveller Rishabh<br><br>Mumbai Tourist Places | Mumbai Tour Plan | Mumbai Darshan | Mumbai Travel Guide Vlog Mumbai Tourism<br>
+	in this mumbai travel guide vlog i give you information about mumbai tourist places places to visit in mumbai how to travel in mumbai<br> 
+
+is mumbai travel video me aap janoge mumbai kaise ghume mumbai me konse tourist places ghum mumbai me kaise travel kare<br>
+#mumbai<br>
+		#mumbaitouristplaces<br> 
+		#mumbaivlog <br>
+		#mumbaidarshan <br>
+		</div>
+		</div>
+	
+	<div class="row">
+	<div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 pt-5">
+	<iframe class="play" width="630" height="450" src="https://www.youtube.com/embed/Er-P4oGoQBs?mute=1">
+	</iframe>
+	</div>
+	
+	<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 pt-5">
+	<h4 style="color:#83c5bf; font-size:18px; text-align:justify"> </h4>
+	<p style="color:#83c5bf; font-size:18px; text-align:justify; border:3px solid  #77b300; border-radius: 20px; padding-left:30px; padding-right:30px; padding-bottom:30px;">Curly Tales<br><br>48 Hours in MUMBAI: The City That Never Sleeps | Curly Tales<br>
+	To experience the city that never sleeps, 48 hours seem like a drop in the bucket compared to what it has to offer. But when the time isn't your friend, Curly Tales can certainly help with this itinerary to make the most of your 48 hours in the Mumbai city that never sleeps.<br>
+
+		#mumbai<br>
+		#mumbaitouristplaces<br> 
+		#mumbaivlog <br>
+		#mumbaidarshan <br>
+		
+	</div>
+	
+	</div>
+	
+	<div class="row">
+	<div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 pt-5">
+	<iframe class="play" width="630" height="500" src="https://www.youtube.com/embed/NiGH7Fi0gYY?mute=1">
+	</iframe>
+	</div>
+	
+	<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 pt-5">
+	<p style="color:#83c5bf; font-size:18px; text-align:justify; border:3px solid  #77b300; border-radius: 20px; padding-left:30px; padding-right:30px; padding-bottom:30px;">Things2do<br><br>7 Street Shopping Markets in Mumbai | Things2do | Top 7 Episode 15 | Linking Road, Hill Road, Colaba<br>
+	Whether you are looking for a perfect pair of sneakers, trendy tops, jhumkas, funky accessories or a computer, the street shopping markets in Mumbai offer it all.<br> 
+
+Fashion runs through every vein and lane of Mumbai and here we have listed down some of the best places to shop, hog and bargain.<br> 
+
+Hill Road - If you are in for the latest trends in clothes and partywear, Hill is the best to shop in Mumbai.<br> 
+Linking Road - Linking road is a treasure mine for shoe lovers! Get sneakers, chappals, mojris, sports shoes and more! </p>
+
+
+
+	</div>
+	
+	</div>
+	
+	<div class="row">
+	<div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 pt-5">
+	<iframe class="play" width="630" height="500" src="https://www.youtube.com/embed/FBYPQlbYQ1w?mute=1">
+	</iframe>
+	</div>
+	
+	<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 pt-5">
+	<h4 style="color:#83c5bf; font-size:18px; text-align:justify"></h4>
+	<p style="color:#83c5bf; font-size:18px; text-align:justify; border:3px solid  #77b300; border-radius: 20px; padding-left:30px; padding-right:30px; padding-bottom:30px;"> Veggie Paaji<br><br>Dadar Food Tour|| Bhelpuri, Cheese Dosa, Schezwan Vada Pav, Bhajni Vada|| Indian Street Food Series<br>
+	Veggiepaaji will take you to the delicious Street food tour in Dadar, Mumbai.<br>
+Indian Street Food in Dadar, Mumbai consists of Cheese Spring Dosa from Cafe Mani, Schezwan Cheese Vada Pav From Jumbo Vada Pav, and Bhajni Vada from Trupti Restaurant.<br>
+Paharganj, Delhi. Indian Street Food in Paharganj consists of Dal Samosa from Janta Sweets, Multani Moth Kachori from Multani Moth Bhandar, Geele Kulche, Chole Samosa from Shri Bankey Bihari Samose Wala, 6 flavour Gol Gappe From Imperial Cinema. 
+</p>
+</div>
+</div>
+	
+	</div>
+	
+	<div class="container">
+	<h1 style="padding-top:20px;color:#cd6c6c; font-family:Cooper;">Photos</h1>
+	<div class="row">
+	<div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 pt-4">
+				<img id="zoom" src="Images/photo81.jpg" width="250" height="250">
+			</div>
+			<div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 pt-4">
+			<img id="zoom" src="Images/photo82.jpg" width="250" height="250">
+			</div>
+			<div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 pt-4">
+			<img id="zoom" src="Images/photo83.jpg" width="250" height="250">
+			</div>
+			<div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 pt-4">
+			<img id="zoom" src="Images/photo84.jpg" width="250" height="250">
+			</div>
+	</div>
+	
+	<div class="row">
+	<div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 pt-4">
+				<img id="zoom" src="Images/photo85.jpg" width="250" height="250">
+			</div>
+			<div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 pt-4">
+			<img id="zoom" src="Images/photo86.jpg" width="250" height="250">
+			</div>
+			<div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 pt-4">
+			<img id="zoom" src="Images/photo87.jpg" width="250" height="250">
+			</div>
+			<div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 pt-4">
+			<img id="zoom" src="Images/photo88.jpg" width="250" height="250">
+			</div>
+	</div>
+	
+	</div>
+	
+</body>
+</html>

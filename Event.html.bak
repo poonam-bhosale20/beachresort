@@ -1,0 +1,56 @@
+<!DOctype html>
+
+<html>
+<head>
+<title>Beach Resort</title>
+<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	<script type="text/javascript" src="jquery.js"></script>
+	<script type="text/javascript" src="popper.js"></script>
+	<script type="text/javascript" src="bootstrap.js"></script>
+</head>
+<body style="background:black;">
+	<header>
+		<div class="container">
+			<div class="row">
+				<div class="col-5 col-sm-5 col-md-6 col-lg-6 col-xl-6">
+				<img src="Beachlogo.png" class="img-fluid mx-auto" height="70" width="170">
+				</div>
+				<div class="col-7 col-sm-7 col-md-6 col-lg-6 col-xl-6">
+				<form class="form-inline" style="margin-top: 35px; margin-left: 60px;">
+					<div class="input-group">
+						<input class="form-control mr-sm-2" type="text" placeholder="Search....">
+						<button class="btn btn-success" type="submit">Submit</button>
+					</div>
+				</form>
+			  </div>
+			</div>
+	</header>
+	
+	<nav class="navbar navbar-expand-md bg-dark navbar-dark sticky-top">
+		<div class="container-fluid">
+			
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+	    		<span class="navbar-toggler-icon"></span>
+	  		</button>
+	  		<div class="collapse navbar-collapse" id="collapsibleNavbar">
+				<ul class="navbar-nav mx-auto">
+					<li class="nav-item "><a class="nav-link"  href="Home.html" style="width:110px; text-align: center;">HOME</a></li>
+					<li class="nav-item"><a class="nav-link"  href="Place to visit.html" style="width: 160px; text-align: center;">PLACE TO VISIT</a></li>
+					<li class="nav-item"><a class="nav-link"  href="Resturant.html" style="width: 160px; text-align: center;">RESTAURANT</a></li>
+					<li class="nav-item"><a class="nav-link"  href="Hotels.html" style="width: 130px; text-align: center;">HOTELS</a></li>
+					<li class="nav-item"><a class="nav-link"  href="Club.html" style="width: 130px; text-align: center;">CLUBS</a></li>
+					<li class="nav-item active" style="border-bottom: 3px solid #77b300; font-size: 17px;"><a class="nav-link"  href="Event.html" style="width: 130px; text-align: center;">EVENTS</a></li>
+					
+					<li class="nav-item"><a class="nav-link"  href="Travel Blog.html" style="width: 160px; text-align: center;">TRAVEL BLOG</a></li>
+					<li class="nav-item"><a class="nav-link"  href="Contact.html" style="width: 110px; text-align: center;">CONTACT</a></li>
+				</ul>
+			</div>	
+		</div>
+	</nav>
+	
+	
+</body>
+</html>

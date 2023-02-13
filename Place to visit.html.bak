@@ -1,0 +1,168 @@
+<!Doctype html>
+<html>
+<head>
+<title>Beach Resort</title>
+<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	<script type="text/javascript" src="jquery.js"></script>
+	<script type="text/javascript" src="popper.js"></script>
+	<script type="text/javascript" src="bootstrap.js"></script>
+	
+	<style>
+	.wrapper{
+	height:260px;
+	display:flex;
+	overflow-x:auto;
+	
+	}
+	.wrapper .item img{
+	width:250px;
+	height:250px;
+	line-height:50px;
+	margin:0px 10px;
+	}
+	
+	#zoom:hover{
+	-webkit-transform:scaleX(-1);
+		transform: scaleX(-1);
+}
+	
+	</style>
+	
+</head>
+<body style="background:black">
+	<header>
+		<div class="container">
+			<div class="row">
+				<div class="col-5 col-sm-5 col-md-6 col-lg-6 col-xl-6">
+				<img  src="Beachlogo.png" class="img-fluid mx-auto" height="70" width="170">
+				</div>
+				<div class="col-7 col-sm-7 col-md-6 col-lg-6 col-xl-6">
+				<form class="form-inline" style="margin-top: 35px; margin-left: 60px;">
+					<div class="input-group">
+						<input class="form-control mr-sm-2" type="text" placeholder="Search....">
+						<button class="btn btn-success" type="submit">Submit</button>
+					</div>
+				</form>
+			  </div>
+			</div>
+	</header>
+	
+	<nav class="navbar navbar-expand-md  navbar-dark sticky-top" style="background:black;">
+	<div class="fliud-container">
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="margin:50px;">
+	    		<span class="navbar-toggler-icon"></span>
+	  		</button>
+    <header class="d-flex flex-wrap justify-content-center py-3 mb-4">
+      <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+        </a>
+		
+		<div class="collapse navbar-collapse" id="collapsibleNavbar">
+
+      <ul class="nav nav-pills navbar-nav mx-auto" >
+        <li class="nav-item"><a href="Home.html" class="nav-link" style="width: 100px; text-align: center;">HOME</a></li>
+        <li class="nav-item"><a href="Place to visit.html" class="nav-link active" aria-current="page" style="width: 160px; text-align: center;">PLACE TO VISIT </a></li>
+        <li class="nav-item"><a href="Resturant.html" class="nav-link" style="width: 160px; text-align: center;">RESTURANT</a></li>
+        <li class="nav-item"><a href="Hotels.html" class="nav-link" style="width: 100px; text-align: center;">HOTELS</a></li>
+        
+		<li class="nav-item"><a href="Club.html" class="nav-link" style="width: 100px; text-align: center;">CLUBS</a></li>
+		<li class="nav-item"><a href="RoadTrip.html" class="nav-link" style="width: 120px; text-align: center;">ROAD TRIP</a></li>
+		<li class="nav-item"><a href="Travel Blog.html" class="nav-link" style="width: 120px; text-align: center;">TRAVEL BLOG</a></li>
+		<li class="nav-item"><a href="Contact.html" class="nav-link" style="width: 110px; text-align: center;">CONTACT</a></li>
+		
+      </ul>
+	  </div>
+    </header>
+	</div>
+	</nav>
+	
+	
+		<div class="container">
+		<h1 class="pt-4" style="color:#cd6c6c; font-family:Cooper; font-size:60px;">Places to Visit in Mumbai</h1>
+		<h4 class="pt-4" style="color:white;">Popular things to do</h4>
+		</div>
+	
+		<div class="container">
+		<div class="wrapper">
+	<div id="zoom" class="item"><img src="Images/photo9.jpg"></div>
+	<div id="zoom" class="item"><img src="Images/photo10.jpg"></div>
+	<div id="zoom" class="item"><img src="Images/photo11.jpg"></div>
+	<div id="zoom" class="item"><img src="Images/photo12.jpg"></div>
+	<div id="zoom" class="item"><img src="Images/photo13.jpg"></div>
+	<div id="zoom" class="item"><img src="Images/photo26.jpg"></div>
+	<div id="zoom" class="item"><img src="Images/photo27.jpg"></div>
+	<div id="zoom" class="item"><img src="Images/photo28.jpg"></div>
+	<div id="zoom" class="item"><img src="Images/photo29.jpg"></div>
+	<div id="zoom" class="item"><img src="Images/photo30.jpg"></div>
+	<div id="zoom" class="item"><img src="Images/photo31.jpg"></div>
+	<div id="zoom" class="item"><img src="Images/photo32.jpg"></div>
+	</div>
+		</div>
+			<div class="container">
+			<h1 class="p-4" style="color:white;">Top Attractions in Mumbai</h1>
+			</div>
+			<section>
+			<div class="container">
+				<div class="row pt-4">
+					<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+					<img id="zoom" src="Images/photo14.jpg" width="350" height="300">
+					<h3 style="color:white;">1.Gateway of India</h3>
+					<p style="color:white;">Points of Interest & Landmarks • Monuments & Statues Wellington Pier •Open now</p>
+					</div>
+					<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+					<img id="zoom" src="Images/photo15.jpg" width="350" height="300">
+					<h3 style="color:white;">2.Marine Drive</h3>
+					<p style="color:white;">Points of Interest & Landmarks • Scenic Drives South Mumbai • Open now</p>
+					</div>
+					<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+					<img id="zoom" src="Images/photo16.jpg" width="350" height="300">
+					<h3 style="color:white;">3.Bandra-Worli Sea</h3>
+					<p style="color:white;">Bridges</p>
+					</div>
+				</div>
+				
+				<div class="row pt-5">
+					<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+					<img id="zoom" src="Images/photo17.jpg" width="350" height="300">
+					<h3 style="color:white;">4.Shree Sidhivinayak</h3>
+					<p style="color:white;">Religious Sites
+South Mumbai</p>
+					</div>
+					<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+					<img id="zoom" src="Images/photo18.jpg" width="350" height="300">
+					<h3 style="color:white;">5.Chhatrapati Shivaji Terminus</h3>
+					<p style="color:white;">Historic Sites • Architectural Buildings
+Marine Drive</p>
+					</div>
+					<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+					<img id="zoom" src="Images/photo19.jpg" width="350" height="300">
+					<h3 style="color:white;">6.KidZania Mumbai</h3>
+					<p style="color:white;">Western Suburbs • Open now</p>
+					</div>
+				</div>
+				
+				<div class="row pt-5">
+					<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+					<img id="zoom" src="Images/photo20.jpg" width="350" height="300">
+					<h3 style="color:white;">7.Nariman Point</h3>
+					<p style="color:white;">Neighbourhoods South Mumbai</p>
+					</div>
+					<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+					<img id="zoom" src="Images/photo21.jpg" width="350" height="300">
+					<h3 style="color:white;">8.Elephanta Caves</h3>
+					<p style="color:white;">Points of Interest & Landmarks</p>
+					</div>
+					<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+					<img id="zoom" src="Images/photo22.jpg" width="350" height="300">
+					<h3 style="color:white;">9.Colaba</h3>
+					<p style="color:white;">Neighbourhoods Colaba</p>
+					</div>
+				</div>
+				
+				</div>
+			</section>
+</body>
+</html>
